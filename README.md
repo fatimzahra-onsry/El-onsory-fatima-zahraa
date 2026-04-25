@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est **Fatima zahraa El Onsory**
+# 👋 Salut,  c’est **Fatima zahraa El Onsory**
 
 🎓 Étudiante en **Intelligence Artificielle & Ingénierie des Données**  
 💡 Passionnée par la **Data Science**, les **systèmes intelligents** et les **solutions innovantes**
